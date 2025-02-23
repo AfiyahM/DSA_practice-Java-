@@ -21,8 +21,8 @@ class maxmin{
     }
     public static void main (String []args){
          int [] arr ={1,4,5,8,21,34,15,673,89,0};
-         
-         System.out.println("The given array is"+ arr);
+    
+              System.out.println("The given array is"+ arr);
          System.out.println("maximium nuber from the array is"+ max(arr));
          System.out.println("minimium nuber from the array is"+ min(arr));
     }
