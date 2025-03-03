@@ -10,8 +10,8 @@ import java.util.Arrays;
             if(diff < mindiff){
                 mindiff=diff;
             }
-            return mindiff;
         }
+            return mindiff;
     }
         public static void main(String[] args) {
         int[] arr = {7, 3, 2, 4, 9, 12, 56};
