@@ -20,3 +20,4 @@ import java.util.Arrays;
         System.out.println(mindiff(arr, m));
     }
  }
+ 
